@@ -1,0 +1,7 @@
+body {
+  scrollbar-color: transparent transparent;
+}
+
+.third:hover {
+  scrollbar-color: rgb(214, 213, 213) transparent;
+}
